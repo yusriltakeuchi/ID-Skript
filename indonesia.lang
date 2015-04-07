@@ -4,12 +4,12 @@
 version: 2.1.2
 
 # -- General --
-and: and
-or: or
-a: a, an
-is: is
-are: are
-not: not
+and: dan
+or: atau
+a: sebuah, seekor
+is: adalah
+are: ialah
+not: bukan
 # not a: not a(n) # @a:not a @an:not an @x:not
 neither: neither
 nor: nor
